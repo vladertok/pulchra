@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1759820419 source:o:\213xx\21318\student\vladuwu\vladts\lab2\nice_lab\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
