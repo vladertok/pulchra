@@ -1,3 +1,7 @@
+.gitignore
+LIC*.*
+file*.txt
+
 # Logs
 logs
 *.log
